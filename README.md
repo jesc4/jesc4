@@ -1,4 +1,4 @@
-<h2 data-importer="text" align="left">Olá, meu nome é Jéssica, e meu objetivo aqui e mostrar os meus estudos.</h2>
+<h2 data-importer="text" align="left">Olá, meu nome é Jéssica, e meu objetivo aqui é mostrar os meus estudos.</h2>
 
 ###
 
