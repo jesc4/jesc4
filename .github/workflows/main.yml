@@ -22,7 +22,6 @@ jobs:
         uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: ${{ github.repository_owner }}
-          gameTheme: github-dark
           games: 'pacman'
          
 
