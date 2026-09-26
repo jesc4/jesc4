@@ -15,8 +15,5 @@
 </div>
 
 ###
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jesc4/jesc4/pacman-output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jesc4/jesc4/pacman-output/pacman-contribution-graph.svg">
-  <img alt="pacman" src="https://raw.githubusercontent.com/jesc4/jesc4/pacman-output/pacman-contribution-graph-dark.svg">
-</picture>
+![dark](https://raw.githubusercontent.com/jesc4/jesc4/pacman-output/pacman-contribution-graph-dark.svg#gh-dark-mode-only)
+![light](https://raw.githubusercontent.com/jesc4/jesc4/pacman-output/pacman-contribution-graph.svg#gh-light-mode-only)
