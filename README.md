@@ -16,6 +16,6 @@
 
 ###
 
-![pacman light](https://raw.githubusercontent.com/jesc4/jesc4/pacman-output/pacman-contribution-graph.svg#gh-light-mode-only)
-![pacman dark](https://raw.githubusercontent.com/jesc4/jesc4/pacman-output/pacman-contribution-graph-dark.svg#gh-dark-mode-only)
+![Pacman Light](https://raw.githubusercontent.com/jesc4/jesc4/pacman-output/pacman-contribution-graph.svg#gh-light-mode-only)
+![Pacman Dark](https://raw.githubusercontent.com/jesc4/jesc4/pacman-output/pacman-contribution-graph-dark.svg#gh-dark-mode-only)
 
